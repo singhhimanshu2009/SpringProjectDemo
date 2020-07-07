@@ -5,6 +5,7 @@ import org.springframework.stereotype.Service;
 
 //@Service
 @Component
+//Accountimpl class
 public class Accountimpl implements Account{
 
 	public void withdrawal() {
